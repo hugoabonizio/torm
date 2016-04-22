@@ -1,0 +1,6 @@
+engines:
+  phpmd:
+    enabled: true
+    config:
+      file_extensions: "php"
+      rulesets: "design,codesize"
